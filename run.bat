@@ -1,1 +1,1 @@
-ECHO print("hello pyexec") | pyexec.exe
+ECHO test.py | pyexec.exe
